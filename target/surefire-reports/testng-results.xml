@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-24T23:01:14Z" name="Suite" finished-at="2024-03-24T23:01:42Z" duration-ms="27595">
+    <groups>
+    </groups>
+    <test started-at="2024-03-24T23:01:14Z" name="Test" finished-at="2024-03-24T23:01:42Z" duration-ms="27595">
+      <class name="org.maven.SampleTestNG.AdactinHotelBooking">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:org.maven.SampleTestNG.AdactinHotelBooking@588df31b]" started-at="2024-03-24T23:01:14Z" name="startUp" finished-at="2024-03-24T23:01:16Z" duration-ms="2106" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="Booking()[pri:0, instance:org.maven.SampleTestNG.AdactinHotelBooking@588df31b]" started-at="2024-03-24T23:01:16Z" name="Booking" finished-at="2024-03-24T23:01:38Z" duration-ms="21609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.maven.SampleTestNG.AdactinHotelBooking@588df31b]" started-at="2024-03-24T23:01:38Z" name="tearDown" finished-at="2024-03-24T23:01:38Z" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.maven.SampleTestNG.AdactinHotelBooking -->
+      <class name="org.maven.SampleTestNG.Fcebooklogintest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:org.maven.SampleTestNG.Fcebooklogintest@33b37288]" started-at="2024-03-24T23:01:38Z" name="startUp" finished-at="2024-03-24T23:01:40Z" duration-ms="1460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="Facebook()[pri:0, instance:org.maven.SampleTestNG.Fcebooklogintest@33b37288]" started-at="2024-03-24T23:01:40Z" name="Facebook" finished-at="2024-03-24T23:01:42Z" duration-ms="1751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Facebook -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.maven.SampleTestNG.Fcebooklogintest@33b37288]" started-at="2024-03-24T23:01:42Z" name="tearDown" finished-at="2024-03-24T23:01:42Z" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.maven.SampleTestNG.Fcebooklogintest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
